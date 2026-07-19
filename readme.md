@@ -3,3 +3,9 @@
 <img width="1536" height="595" alt="mibanner" src="https://github.com/user-attachments/assets/f93962d4-cd55-40a9-8935-741b80a46bcb" />
 
 <h1 align="center">HARDWARE DESING</h1>
+
+<iframe
+src="1. El Plan de Juego.pdf"
+width="100%"
+height="900px">
+</iframe>
