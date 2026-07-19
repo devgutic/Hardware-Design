@@ -103,3 +103,5 @@ Regularity, on the other hand, promotes the use of standardized and reusable com
 ![3Ys](Images/2.TYs.png)
 
 The combination of hierarchy, modularity, and regularity constitutes an essential strategy for addressing the increasing complexity of modern technological systems. These principles not only enable the development of more robust and maintainable products but also promote scalability, solution reuse, and collaboration among different engineering teams. Consequently, they represent a fundamental foundation for the efficient design of hardware, software, and highly complex electronic systems.
+
+- 🖥️ [This link will take you to my professional profile and serves as a way to promote my professional background.](https://github.com/devgutic) 
