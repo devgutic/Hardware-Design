@@ -98,7 +98,7 @@ La ***modularidad*** complementa este proceso al establecer que cada módulo deb
 
 Por su parte, la ***regularidad*** promueve el uso de componentes estandarizados y reutilizables. Cuando un mismo tipo de módulo puede emplearse en diferentes partes de un sistema, se reduce el esfuerzo de diseño, fabricación y validación, además de facilitar el reemplazo de componentes cuando sea necesario. Este principio es evidente en la fabricación industrial, donde el empleo de piezas intercambiables disminuye costos y mejora la eficiencia de la producción. De manera similar, en los sistemas digitales es común reutilizar bloques funcionales como registros, multiplexores, memorias o módulos de comunicación, evitando diseñarlos nuevamente en cada proyecto.
 
-![3Ys](Images/2.3Ys.png)
+![3Ys](Images/2.TYs.png)
 
 La combinación de jerarquía, modularidad y regularidad constituye una estrategia esencial para afrontar la creciente complejidad de los sistemas tecnológicos modernos. Estos principios no solo permiten desarrollar productos más robustos y fáciles de mantener, sino que también favorecen la escalabilidad, la reutilización de soluciones y la colaboración entre diferentes equipos de ingeniería. En consecuencia, representan una base fundamental para el diseño eficiente de hardware, software y sistemas electrónicos de alta complejidad.
 
