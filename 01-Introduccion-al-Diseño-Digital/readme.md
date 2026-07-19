@@ -102,3 +102,4 @@ Por su parte, la ***regularidad*** promueve el uso de componentes estandarizados
 
 La combinación de jerarquía, modularidad y regularidad constituye una estrategia esencial para afrontar la creciente complejidad de los sistemas tecnológicos modernos. Estos principios no solo permiten desarrollar productos más robustos y fáciles de mantener, sino que también favorecen la escalabilidad, la reutilización de soluciones y la colaboración entre diferentes equipos de ingeniería. En consecuencia, representan una base fundamental para el diseño eficiente de hardware, software y sistemas electrónicos de alta complejidad.
 
+- 🖥️ [Este link te llevara a mi perfil profesional me sirve como promocion de mi perfil](https://github.com/devgutic) 
