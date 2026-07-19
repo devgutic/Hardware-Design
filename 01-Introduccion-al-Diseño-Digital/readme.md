@@ -32,7 +32,7 @@ La capacidad para enfrentar sistemas complejos de forma estructurada es una de l
 
 La abstracción es uno de los principios fundamentales de la ingeniería y la informática, ya que permite gestionar la complejidad de los sistemas dividiéndolos en niveles organizados donde cada capa oculta los detalles internos de la anterior y expone únicamente las funcionalidades necesarias para la siguiente. Gracias a este enfoque, es posible diseñar, comprender y desarrollar sistemas extremadamente complejos, como microprocesadores, sistemas embebidos o computadores completos, sin necesidad de conocer simultáneamente todos sus componentes físicos y funcionales. En el contexto del diseño de hardware y los sistemas digitales, la abstracción establece una jerarquía que parte de las leyes fundamentales de la física, continúa con los dispositivos electrónicos, los circuitos analógicos y digitales, la lógica, la microarquitectura y la arquitectura del procesador, hasta llegar al sistema operativo y al software de aplicación. Cada nivel se construye sobre el anterior, aprovechando sus servicios y ocultando su complejidad, lo que facilita el desarrollo modular, la reutilización de componentes, la verificación de diseños y la innovación tecnológica. Sin este modelo jerárquico de abstracción, el diseño de los sistemas electrónicos modernos, que integran miles de millones de transistores y millones de líneas de código, sería prácticamente imposible.
 
-![Abstraction1](Images/1.Abstraction.png)
+![Abstraction](Images/1.Abstraction.png)
 
 ## 1. ⚛️ Física
 
@@ -97,6 +97,8 @@ La ***jerarquía*** consiste en organizar un sistema mediante niveles, dividién
 La ***modularidad*** complementa este proceso al establecer que cada módulo debe cumplir una función específica y comunicarse con los demás mediante interfaces claramente definidas. Esto permite que un componente pueda desarrollarse, probarse o reemplazarse sin afectar el funcionamiento del resto del sistema, siempre que mantenga la misma interfaz. En el desarrollo de software, por ejemplo, una aplicación puede dividirse en módulos de autenticación, gestión de usuarios, base de datos y visualización. Cada uno puede evolucionar de manera independiente, simplificando el mantenimiento y favoreciendo el trabajo simultáneo de varios equipos de desarrollo.
 
 Por su parte, la ***regularidad*** promueve el uso de componentes estandarizados y reutilizables. Cuando un mismo tipo de módulo puede emplearse en diferentes partes de un sistema, se reduce el esfuerzo de diseño, fabricación y validación, además de facilitar el reemplazo de componentes cuando sea necesario. Este principio es evidente en la fabricación industrial, donde el empleo de piezas intercambiables disminuye costos y mejora la eficiencia de la producción. De manera similar, en los sistemas digitales es común reutilizar bloques funcionales como registros, multiplexores, memorias o módulos de comunicación, evitando diseñarlos nuevamente en cada proyecto.
+
+![3Ys](Images/2.3Ys.png)
 
 La combinación de jerarquía, modularidad y regularidad constituye una estrategia esencial para afrontar la creciente complejidad de los sistemas tecnológicos modernos. Estos principios no solo permiten desarrollar productos más robustos y fáciles de mantener, sino que también favorecen la escalabilidad, la reutilización de soluciones y la colaboración entre diferentes equipos de ingeniería. En consecuencia, representan una base fundamental para el diseño eficiente de hardware, software y sistemas electrónicos de alta complejidad.
 
