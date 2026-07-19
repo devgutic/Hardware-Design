@@ -24,4 +24,4 @@ Aunque los sistemas digitales se fundamentan en principios relativamente sencill
 </tr>
 </table>
 
-
+![Abstraction1](Images/1.Abstraction.png)
