@@ -6,4 +6,4 @@
 
 # Introduction to Digital Design
 
-🖥️ **Introduction to Digital Design** | <img src="https://flagcdn.com/24x18/gb.png" alt="UK"> [English](01-Introduction-to-Digital-Design) | 🇨🇴 🇪🇸 [Spanish](01-Introduccion-al-Diseño-Digital)
+🖥️ **Introduction to Digital Design** | <img src="https://flagcdn.com/24x18/gb.png" alt="UK"> [English](01-Introduction-to-Digital-Design) | <img src="https://flagcdn.com/24x18/co.png" alt="Colombia"> [Spanish](01-Introduccion-al-Diseño-Digital)
