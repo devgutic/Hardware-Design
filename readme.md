@@ -6,4 +6,4 @@
 
 # Introduction to Digital Design
 
-🖥️ [Introduction to Digital Design](01-Introduction-to-Digital-Design)
+🖥️ Introduction to Digital Design [English 🇬🇧 🇺🇸 🇨🇴 🇪🇸](01-Introduction-to-Digital-Design)[Spanish 🇬🇧 🇺🇸 🇨🇴 🇪🇸](01-Introduction-to-Digital-Design)
