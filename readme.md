@@ -4,8 +4,5 @@
 
 <h1 align="center">HARDWARE DESING</h1>
 
-<iframe
-src="1. El Plan de Juego.pdf"
-width="100%"
-height="900px">
-</iframe>
+# Introduction to Digital Design
+
