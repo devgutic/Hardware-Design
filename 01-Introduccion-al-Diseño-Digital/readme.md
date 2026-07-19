@@ -76,3 +76,27 @@ En la parte superior de la jerarquía se encuentra el software de aplicación, q
 
 --- 
 
+# Disciplina
+
+La disciplina de diseño es uno de los principios fundamentales de la ingeniería, ya que permite enfrentar sistemas complejos mediante la definición de reglas, estándares y restricciones previamente establecidas. En lugar de considerar todas las posibilidades de diseño, los ingenieros trabajan con componentes e interfaces que cumplen especificaciones comunes, lo que facilita la integración de nuevos elementos y reduce el tiempo necesario para desarrollar soluciones confiables.
+
+Este enfoque se encuentra presente en numerosos campos de la tecnología. Por ejemplo, los puertos USB permiten que dispositivos de diferentes fabricantes se conecten entre sí gracias a un conjunto de normas compartidas. De forma similar, en la construcción de edificaciones se emplean materiales con dimensiones y características estandarizadas, lo que simplifica el ensamblaje, el mantenimiento y la sustitución de componentes sin necesidad de realizar ajustes particulares en cada caso.
+
+En el diseño de hardware digital, la disciplina adquiere un papel aún más importante. Los circuitos digitales operan con niveles lógicos bien definidos y utilizan interfaces estandarizadas para intercambiar información entre módulos. Esta organización permite diseñar sistemas complejos de manera modular, donde cada bloque puede desarrollarse, verificarse e integrarse de forma independiente sin conocer todos los detalles internos de los demás componentes.
+
+Aunque establecer restricciones puede parecer una limitación, en realidad constituye una ventaja para el desarrollo tecnológico. La estandarización mejora la compatibilidad entre dispositivos, facilita la reutilización de diseños y aumenta la confiabilidad de los sistemas. Gracias a este principio, hoy es posible construir procesadores, sistemas embebidos y circuitos programables con millones de transistores, manteniendo un proceso de diseño organizado, escalable y eficiente.
+
+---
+
+# Las tres "Y's"
+
+La gestión de la complejidad en el diseño de sistemas no depende únicamente de la abstracción y la disciplina, sino también de la aplicación de tres principios fundamentales: ***jerarquía, modularidad y regularidad***. Estos conceptos permiten desarrollar soluciones organizadas, fáciles de comprender y mantener, tanto en el ámbito del hardware como del software. Gracias a ellos, es posible abordar proyectos de gran tamaño sin perder el control sobre cada una de sus partes, facilitando además el trabajo colaborativo y la evolución de los sistemas a lo largo del tiempo.
+
+La ***jerarquía*** consiste en organizar un sistema mediante niveles, dividiéndolo en componentes cada vez más pequeños hasta obtener elementos cuya función sea clara y sencilla de analizar. En lugar de estudiar un sistema completo como un único bloque, cada nivel permite concentrarse en un conjunto reducido de responsabilidades. Este enfoque se utiliza ampliamente en la ingeniería; por ejemplo, en el diseño de un computador, este puede separarse en la placa base, el procesador, la memoria y los dispositivos de entrada y salida. A su vez, cada uno de estos componentes puede descomponerse en módulos más específicos, lo que facilita su diseño, comprensión y mantenimiento.
+
+La ***modularidad*** complementa este proceso al establecer que cada módulo debe cumplir una función específica y comunicarse con los demás mediante interfaces claramente definidas. Esto permite que un componente pueda desarrollarse, probarse o reemplazarse sin afectar el funcionamiento del resto del sistema, siempre que mantenga la misma interfaz. En el desarrollo de software, por ejemplo, una aplicación puede dividirse en módulos de autenticación, gestión de usuarios, base de datos y visualización. Cada uno puede evolucionar de manera independiente, simplificando el mantenimiento y favoreciendo el trabajo simultáneo de varios equipos de desarrollo.
+
+Por su parte, la ***regularidad*** promueve el uso de componentes estandarizados y reutilizables. Cuando un mismo tipo de módulo puede emplearse en diferentes partes de un sistema, se reduce el esfuerzo de diseño, fabricación y validación, además de facilitar el reemplazo de componentes cuando sea necesario. Este principio es evidente en la fabricación industrial, donde el empleo de piezas intercambiables disminuye costos y mejora la eficiencia de la producción. De manera similar, en los sistemas digitales es común reutilizar bloques funcionales como registros, multiplexores, memorias o módulos de comunicación, evitando diseñarlos nuevamente en cada proyecto.
+
+La combinación de jerarquía, modularidad y regularidad constituye una estrategia esencial para afrontar la creciente complejidad de los sistemas tecnológicos modernos. Estos principios no solo permiten desarrollar productos más robustos y fáciles de mantener, sino que también favorecen la escalabilidad, la reutilización de soluciones y la colaboración entre diferentes equipos de ingeniería. En consecuencia, representan una base fundamental para el diseño eficiente de hardware, software y sistemas electrónicos de alta complejidad.
+
