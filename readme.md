@@ -6,4 +6,4 @@
 
 # Introduction to Digital Design
 
-🖥️ [El Plan de Juego](1.El-Plan-de-Juego.pdf)
+🖥️ [Introduction](1.El-Plan-de-Juego.pdf)
