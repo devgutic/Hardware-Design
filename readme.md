@@ -6,4 +6,4 @@
 
 # Introduction to Digital Design
 
-🖥️ [**Introducción al Diseño Digital**](01-Introduccion-al-Diseño-Digital)
+🖥️ [**Introducción al Diseño Digital**](1-Introduccion-al-Diseño-Digital/1.Introduccion.pdf) 
