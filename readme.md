@@ -24,6 +24,6 @@
 
 # Talleres y laboratorios
 
-| Seccion | Taller | Solución | Laboratorio | Video |
-|---------|----------|-------| ----------|-------|
-| 1. Introducción al Diseño Digital | C++ | Avanzado | C++ | Avanzado |
+| Seccion | Taller | Sol. Taller | Laboratorio | Sol. Lab | Simulación / TestBench| Video |
+|---------|----------|-------| ----------|-------| ----------|-------|
+| 1. Introducción al Diseño Digital | [**T1**](1.Introduccion-al-Diseño-Digital/T1.pdf)  | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
