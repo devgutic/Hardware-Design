@@ -60,5 +60,6 @@
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/39b1252a-2c94-455e-809e-f0e9f055cc3d" />
 
+---
 
-
+- 🖥️ [Este link te llevara a mi perfil profesional me sirve como promocion de mi perfil](https://github.com/devgutic) 
