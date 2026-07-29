@@ -27,3 +27,7 @@
 | Seccion | Taller | Sol. Taller | Laboratorio | Sol. Lab | Simulación / TestBench| Video |
 |---------|----------|-------| ----------|-------| ----------|-------|
 | 1. Introducción al Diseño Digital | [**T1**](1.Introduccion-al-Diseño-Digital/T1.pdf)  | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
+
+---
+
+- 🖥️ [Perfil - Edgar Gutierrez Caceres - DevGutic](https://github.com/devgutic)
