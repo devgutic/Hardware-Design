@@ -6,11 +6,4 @@
 
 # Introduction to Digital Design
 
-🖥️ **Introducción al Diseño Digital** | <img src="https://flagcdn.com/24x18/co.png" alt="Colombia"> [Spanish](01-Introduccion-al-Diseño-Digital)
-
-🖥️ **Sistemas Númericos** | <img src="https://flagcdn.com/24x18/co.png" alt="Colombia"> [Spanish](02-Sistemas-Numericos)
-
-🖥️ **Compuertas Lógicas** | <img src="https://flagcdn.com/24x18/co.png" alt="Colombia"> [Spanish](03-Abstracciones-Digitales)
-
-
-🖥️ **Abstracciones Digitales** | <img src="https://flagcdn.com/24x18/co.png" alt="Colombia"> [Spanish](03-Abstracciones-Digitales)
+🖥️ [**Introducción al Diseño Digital**](01-Introduccion-al-Diseño-Digital)
