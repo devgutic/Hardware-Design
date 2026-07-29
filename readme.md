@@ -7,3 +7,5 @@
 # Introduction to Digital Design
 
 🖥️ [**Introducción al Diseño Digital**](1.Introduccion-al-Diseño-Digital/1.Introduccion.pdf) 
+
+🖥️ [**El Arte de Gestionar la Complejidad**](1.Introduccion-al-Diseño-Digital/1.Introduccion.pdf) 
