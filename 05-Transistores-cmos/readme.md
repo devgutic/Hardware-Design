@@ -4,7 +4,34 @@
 
 <h1 align="center">DISEÑO DE HARDWARE</h1>
 
-# Compuertas Lógicas
+# Transistores CMOS
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b2c5bc3f-8770-4f17-83fd-5d2d0ab7b660" />
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+- 🖥️ [Este link te llevara a mi perfil profesional me sirve como promocion de mi perfil](https://github.com/devgutic) 
