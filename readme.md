@@ -9,3 +9,5 @@
 🖥️ **Introducción al Diseño Digital** | <img src="https://flagcdn.com/24x18/co.png" alt="Colombia"> [Spanish](01-Introduccion-al-Diseño-Digital)
 
 🖥️ **Sistemas Númericos** | <img src="https://flagcdn.com/24x18/co.png" alt="Colombia"> [Spanish](02-Sistemas-Numericos)
+
+🖥️ **Abstracciones Digitales** | <img src="https://flagcdn.com/24x18/co.png" alt="Colombia"> [Spanish](03-Abstracciones-Digitales)
