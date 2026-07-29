@@ -4,20 +4,26 @@
 
 <h1 align="center">HARDWARE DESING</h1>
 
-# Introduction to Digital Design
+# **1. Introduction to Digital Design**
 
-🖥️ [**Introducción al Diseño Digital**](1.Introduccion-al-Diseño-Digital/1.Introduccion.pdf) 
+🖥️ [**1. Introducción al Diseño Digital**](1.Introduccion-al-Diseño-Digital/1.Introduccion.pdf) 
 
-🖥️ [**El Arte de Gestionar la Complejidad**](1.Introduccion-al-Diseño-Digital/2.El-Arte-de-Gestionar-la-Complejidad.pdf) 
+🖥️ [**2. El Arte de Gestionar la Complejidad**](1.Introduccion-al-Diseño-Digital/2.El-Arte-de-Gestionar-la-Complejidad.pdf) 
 
-🖥️ [**La Abstracción Digital**](1.Introduccion-al-Diseño-Digital/3.La-Abstraccion-Digital.pdf) 
+🖥️ [**3. La Abstracción Digital**](1.Introduccion-al-Diseño-Digital/3.La-Abstraccion-Digital.pdf) 
 
-🖥️ [**Sistemas Numericos**](1.Introduccion-al-Diseño-Digital/4.Sistemas-Numericos.pdf) 
+🖥️ [**4. Sistemas Numericos**](1.Introduccion-al-Diseño-Digital/4.Sistemas-Numericos.pdf) 
 
-🖥️ [**Compuertas Logicas**](1.Introduccion-al-Diseño-Digital/5.Compuertas-Logicas.pdf) 
+🖥️ [**5. Compuertas Logicas**](1.Introduccion-al-Diseño-Digital/5.Compuertas-Logicas.pdf) 
 
-🖥️ [**Debajo de las Abstracciones Digitales**](1.Introduccion-al-Diseño-Digital/6.Debajo-de-las-Abstracciones-Digitales.pdf) 
+🖥️ [**6. Debajo de las Abstracciones Digitales**](1.Introduccion-al-Diseño-Digital/6.Debajo-de-las-Abstracciones-Digitales.pdf) 
 
-🖥️ [**Transistores-CMOS**](1.Introduccion-al-Diseño-Digital/7.Transistores-CMOS.pdf) 
+🖥️ [**7. Transistores-CMOS**](1.Introduccion-al-Diseño-Digital/7.Transistores-CMOS.pdf) 
 
-🖥️ [**Consumo de Energia**](1.Introduccion-al-Diseño-Digital/8.Consumo-de-Energia.pdf) 
+🖥️ [**8. Consumo de Energia**](1.Introduccion-al-Diseño-Digital/8.Consumo-de-Energia.pdf) 
+
+# Talleres y laboratorios
+
+| Seccion | Taller | Solución | Laboratorio | Video |
+|---------|----------|-------| ----------|-------|
+| 1. Introducción al Diseño Digital | C++ | Avanzado | C++ | Avanzado |
