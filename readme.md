@@ -4,7 +4,7 @@
 
 <h1 align="center">HARDWARE DESING</h1>
 
-# **1. Introduction to Digital Design**
+# **1. Introduccion al Diseño Digital**
 
 🖥️ [**1. Introducción al Diseño Digital**](1.Introduccion-al-Diseño-Digital/1.Introduccion.pdf) 
 
