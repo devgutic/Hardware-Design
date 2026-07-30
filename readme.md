@@ -26,7 +26,7 @@
 
 | Seccion | Taller | Sol. Taller | Laboratorio | Sol. Lab | Simulación / TestBench| Video |
 |---------|----------|-------| ----------|-------| ----------|-------|
-| 1. Introducción al Diseño Digital | [**T1**](Talleres/T1.pdf)  | Pendiente | [**Pre.LAB1-Instalacion-Multisim-Click-derecho abrir link en otra pestaña**](https://www.youtube.com/watch?v=kUflFbtoQcE)<br><br>[**LAB-1-Introduccion-al-Diseño-Digital**](Laboratorios/Lab-1-Introduccion.pdf) | Pendiente | Pendiente | Pendiente |
+| 1. Introducción al Diseño Digital | [**T1**](Talleres/T1.pdf)  | Pendiente | [**Pre.LAB1-A-Instalacion-Multisim-Click-derecho abrir link en otra pestaña**](https://www.youtube.com/watch?v=kUflFbtoQcE)<br><br>[**Pre.LAB1-B-Instalacion-Proteus-Click-derecho abrir link en otra pestaña**](https://www.youtube.com/watch?v=s_JGZd0hgsE)<br><br>[**LAB-1-Introduccion-al-Diseño-Digital**](Laboratorios/Lab-1-Introduccion.pdf) | Pendiente | Pendiente | Pendiente |
 
 ---
 
