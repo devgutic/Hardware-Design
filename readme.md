@@ -22,6 +22,10 @@
 
 🖥️ [**8. Consumo de Energia**](1.Introduccion-al-Diseño-Digital/8.Consumo-de-Energia.pdf) 
 
+# **2. Diseño Logico Combinacional**
+
+
+
 # Talleres y laboratorios
 
 | Seccion | Taller | Sol. Taller | Laboratorio | Sol. Lab | Simulación / TestBench| Video |
