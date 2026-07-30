@@ -26,7 +26,7 @@
 
 | Seccion | Taller | Sol. Taller | Laboratorio | Sol. Lab | Simulación / TestBench| Video |
 |---------|----------|-------| ----------|-------| ----------|-------|
-| 1. Introducción al Diseño Digital | [**T1**](1.Introduccion-al-Diseño-Digital/T1.pdf)  | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
+| 1. Introducción al Diseño Digital | [**T1**](1.Introduccion-al-Diseño-Digital/T1.pdf)  | Pendiente | Pre.LAB1<br>LAB.1 | Pendiente | Pendiente | Pendiente |
 
 ---
 
